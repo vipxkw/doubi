@@ -2,4 +2,4 @@ domain: iussr.herokuapp.com
 cf_email: ""
 cf_key: ""
 source-files:
-  - https://raw.githubusercontent.com/vipxkw/doubi/tree/master/other/Aria2/source.yaml
+  - https://raw.githubusercontent.com/vipxkw/doubi/master/other/Aria2/source.yaml
