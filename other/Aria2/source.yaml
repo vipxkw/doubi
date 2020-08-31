@@ -6,43 +6,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-
-- type: subscribe
-  options:
-    url: https://suda.sub.koicloud.pw/link/K9vz0uFPe9ULfdqX?sub=3
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Pcrab/Dotfiles/912c1104b3f8121f72f7ee11590f52bc9c44dde7/.config/electron-ssr/gui-config.json
-
-- type: subscribe
-  options:
-    url: https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr
-
-- type: subscribe
-  options:
-    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=d309c6921bbd7d0d
-
-- type: subscribe
-  options:
-    url: https://extrm.info/link/uirPjznB7esOezjr?sub=1
-
-- type: subscribe
-  options:
-    url: https://vvsub.xyz/api/al/19786-xDX1SCq61Ymi
-
-- type: subscribe
-  options:
     url: https://iwxf.netlify.app/
-
-- type: subscribe
-  options:
-    url: https://tm2w.live/link/EqICUlKXmn1EJwaw?sub=3
-
-- type: subscribe
-  options:
-    url: https://jiyou.world/modules/servers/V2raySocks/osubscribetest.php?sid=57394&token=V3GM60lgqZL9
 
 - type: subscribe
   options:
@@ -58,43 +22,11 @@
 
 - type: subscribe
   options:
-    url: https://www.suncloud.fun/link/Su683BQEyUdxtyuY?mu=1&extend=1
-
-- type: subscribe
-  options:
     url: https://qiaomenzhuanfx.netlify.app/
 
 - type: subscribe
   options:
-    url: https://lei-su.me//link/Dw3lmyXXJJTnvsBA?sub=3&extend=1
-
-- type: subscribe
-  options:
-    url: https://rss.getfree.win/link/w9ted9eZq1zbC3gx?sub=1
-
-- type: subscribe
-  options:
     url: https://jiang.netlify.app/
-
-- type: subscribe
-  options:
-    url: https://www.suncloud.fun/link/ja3OIcMTrky6VhN6?mu=1&extend=1
-
-- type: subscribe
-  options:
-    url: https://bit.ly/2D5fWhX
-
-- type: subscribe
-  options:
-    url: https://sub1.m87sub.xyz/link/pZDgnxhgL6Poh1GQ?sub=1
-
-- type: subscribe
-  options:
-    url: https://12o.ooo/link/JLisT80gOhRkiFnX?sub=1
-
-- type: subscribe
-  options:
-    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 
 - type: subscribe
   options:
@@ -103,38 +35,6 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/fujinqi/dylj/master/README.md
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Sub.txt
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ntkernel/lantern/master/vmess_base64.txt
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/hotsymbol/vpnsetting/master/v2rayopen
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt
 
 - type: subscribe
   options:
@@ -154,23 +54,11 @@
 
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
-
-- type: subscribe
-  options:
     url: https://git.io/autossr_stable
 
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable
-
-- type: subscribe
-  options:
     url: https://git.io/autossr_recent
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
 
 - type: subscribe
   options:
