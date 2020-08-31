@@ -74,10 +74,6 @@
 
 - type: subscribe
   options:
-    url: https://iwxf.netlify.app/
-
-- type: subscribe
-  options:
     url: https://jiang.netlify.app/
 
 - type: subscribe
@@ -151,6 +147,42 @@
 - type: subscribe
   options:
     url: https://uploader.shimo.im/f/22yDa9y7kE18tSEY.txt?attname=Vmess.txt&download
+
+- type: subscribe
+  options:
+    url: https://git.io/autossr_online
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+
+- type: subscribe
+  options:
+    url: https://git.io/autossr_stable
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable
+
+- type: subscribe
+  options:
+    url: https://git.io/autossr_recent
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+
+- type: subscribe
+  options:
+    url: https://muma16fx.netlify.com/
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
+
+- type: subscribe
+  options:
+    url: http://www.miaomiaowu114514.xyz/user/tutorial?os=windows&client=ssr##
 
 
 # 网页模糊抓取
